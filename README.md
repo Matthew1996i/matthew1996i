@@ -11,10 +11,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthew199624@gmail.com)
 
+
 ## Github Analytics 
 
 ![Matheus Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew1996i&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew1996i&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ## Stacks
 <div style="display: inline_block"><br/>
   <img aling="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
