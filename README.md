@@ -46,3 +46,7 @@
   <img aling="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img aling="center" alt="firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 </div>
+
+## Projects
+
+Project Movies [![Project Movies](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://project-movies-ten.vercel.app/)
